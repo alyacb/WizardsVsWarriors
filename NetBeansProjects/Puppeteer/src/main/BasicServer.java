@@ -25,6 +25,10 @@ public class BasicServer {
     private BufferedReader systemin;
     private boolean run;
     
+    public BasicServer(){
+        
+    }
+    
     public void setUpAndGo(){
         setUpAndGo(0);
     }
