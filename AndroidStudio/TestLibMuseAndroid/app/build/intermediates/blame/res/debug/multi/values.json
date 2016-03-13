@@ -1,0 +1,1568 @@
+[
+    {
+        "outputFile": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 48,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 48,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 48,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 52,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 50,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 49,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 48,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 48,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 57,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 55,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 53,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 53,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 52,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 55,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 51,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 51,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 43,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 43,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 49,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 49,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 37,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 37,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 41,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 41,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 52,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 40,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 40,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 56,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 56,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 47,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 47,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 46,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 46,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 43,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 43,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 53,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 53,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 45,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 45,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 44,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 44,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1580
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1585,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "C:\\Users\\Adeel\\Desktop\\Sunday\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 48,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 48,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 48,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 52,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 50,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 49,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 48,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 48,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 57,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 55,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 53,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 53,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 52,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 55,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 51,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 51,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 43,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 43,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 49,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 49,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 37,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 37,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 41,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 41,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 52,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 40,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 40,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 56,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 56,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 47,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 47,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 46,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 46,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 43,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 43,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 53,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 53,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 45,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 45,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 44,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 44,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1580
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1585,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\C:\\Users\\Adeel\\StudioProjects\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 48,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 48,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 48,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 52,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 50,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 49,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 48,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 48,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 57,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 55,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 53,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 53,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 52,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 55,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 51,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 51,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 43,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 43,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 49,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 49,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 37,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 37,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 41,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 41,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 52,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 40,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 40,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 56,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 56,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 47,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 47,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 46,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 46,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 43,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 43,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 53,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 53,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 45,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 45,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 44,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 44,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1580
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1585,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "C:\\Users\\alyacarina\\Documents\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

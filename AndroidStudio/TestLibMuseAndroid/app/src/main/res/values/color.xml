@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_red">#99ff0000</color>
+    <color name="background_green">#9900ff00</color>
+
+    <color name="background_tp9">#0000ff</color>
+    <color name="background_fp1">#00ffff</color>
+    <color name="background_fp2">#F0E68C</color>
+    <color name="background_tp10">#ff00ff</color>
+</resources>
