@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kukrejabharatt@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Peb",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Peb",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "70be702e-f5c0-4368-831b-05f9d62c96f0",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
